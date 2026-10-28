@@ -33,6 +33,7 @@ M.Sc. Artificial Intelligence student at BTU Cottbus-Senftenberg · based in Ber
 | [**Object_detection**](https://github.com/mrchikoo/Object_detection) | Live hand-gesture detection from a webcam with a fine-tuned SSD MobileNet. | TensorFlow Object Detection API, OpenCV, Flask |
 | [**creditcard-fraud-detection-api**](https://github.com/mrchikoo/creditcard-fraud-detection-api) | Credit-card fraud detection pipeline (SMOTE for class imbalance) served through a REST API, with Docker and tests. | Python, scikit-learn, FastAPI, Docker |
 | [**telco-churn-prediction**](https://github.com/mrchikoo/telco-churn-prediction) | Telco customer-churn prediction: feature engineering, model training and evaluation, with an analysis notebook. | Python, scikit-learn, Jupyter |
+| [**lead-outreach**](https://github.com/mrchikoo/lead-outreach) | Local web app that finds businesses on Google Maps in any city, collects their public contact emails and sends a pitch from your own Gmail. Windows installer or Docker. | Python, Flask, Selenium, Docker |
 | [**CC_frauddetection**](https://github.com/mrchikoo/CC_frauddetection) | Credit-card fraud prediction served as a small Flask app. | Python, Flask, scikit-learn |
 
 More, including the full write-ups, on the [portfolio site](https://shazil-katchhi.vercel.app).
@@ -76,6 +77,6 @@ More, including the full write-ups, on the [portfolio site](https://shazil-katch
 
 ## Get in touch
 
-Best reached by [email](mailto:skkatchhi61@gmail.com) or [LinkedIn](https://www.linkedin.com/in/shazil-katchhi-7336a6252/). CV: [Shazil_Katchhi_CV.pdf](https://github.com/mrchikoo/Shazil-Portfolio/blob/main/Shazil_Katchhi_CV.pdf).
+Best reached by [email](mailto:skkatchhi61@gmail.com) or [LinkedIn](https://www.linkedin.com/in/shazil-katchhi-7336a6252/). CV: [Shazil_Katchhi_CV.pdf](https://shazil-katchhi.vercel.app/Shazil_Katchhi_CV.pdf).
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:2563eb,100:0f172a&section=footer" width="100%" alt=""/>
