@@ -31,8 +31,8 @@ M.Sc. Artificial Intelligence student at BTU Cottbus-Senftenberg · based in Ber
 | [**Sign-Language-to-speech-TPP-FPP-**](https://github.com/mrchikoo/Sign-Language-to-speech-TPP-FPP-) | Real-time Indian Sign Language recognition with spoken output; basis of the IEEE paper. | TensorFlow, MediaPipe, Transformer / CNN / LSTM |
 | [**Gen_Ai**](https://github.com/mrchikoo/Gen_Ai) | Fashion GAN image generation experiments. | Python, GANs |
 | [**Object_detection**](https://github.com/mrchikoo/Object_detection) | Live hand-gesture detection from a webcam with a fine-tuned SSD MobileNet. | TensorFlow Object Detection API, OpenCV, Flask |
-| [**lmao**](https://github.com/mrchikoo/lmao) | Credit-card fraud detection pipeline (SMOTE for class imbalance) served through a REST API, with Docker and tests. | Python, scikit-learn, FastAPI, Docker |
-| [**lmao2**](https://github.com/mrchikoo/lmao2) | Telco customer-churn prediction: feature engineering, model training and evaluation, with an analysis notebook. | Python, scikit-learn, Jupyter |
+| [**creditcard-fraud-detection-api**](https://github.com/mrchikoo/creditcard-fraud-detection-api) | Credit-card fraud detection pipeline (SMOTE for class imbalance) served through a REST API, with Docker and tests. | Python, scikit-learn, FastAPI, Docker |
+| [**telco-churn-prediction**](https://github.com/mrchikoo/telco-churn-prediction) | Telco customer-churn prediction: feature engineering, model training and evaluation, with an analysis notebook. | Python, scikit-learn, Jupyter |
 | [**CC_frauddetection**](https://github.com/mrchikoo/CC_frauddetection) | Credit-card fraud prediction served as a small Flask app. | Python, Flask, scikit-learn |
 
 More, including the full write-ups, on the [portfolio site](https://shazil-katchhi.vercel.app).
