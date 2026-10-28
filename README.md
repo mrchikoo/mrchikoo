@@ -7,7 +7,7 @@
 M.Sc. Artificial Intelligence student at BTU Cottbus-Senftenberg · based in Berlin · open to working-student roles (15-20 h/week)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-shazil--katchhi.vercel.app-2563eb?style=flat-square)](https://shazil-katchhi.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shazil%20Katchhi-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shazil-katchhi-7336a6252/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shazil%20Katchhi-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shazil-katchhi)
 [![Email](https://img.shields.io/badge/Email-skkatchhi61%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:skkatchhi61@gmail.com)
 [![IEEE](https://img.shields.io/badge/IEEE%20Xplore-ESCI%202025-00629b?style=flat-square)](https://ieeexplore.ieee.org/document/10988379)
 
@@ -77,6 +77,6 @@ More, including the full write-ups, on the [portfolio site](https://shazil-katch
 
 ## Get in touch
 
-Best reached by [email](mailto:skkatchhi61@gmail.com) or [LinkedIn](https://www.linkedin.com/in/shazil-katchhi-7336a6252/). CV: [Shazil_Katchhi_CV.pdf](https://shazil-katchhi.vercel.app/Shazil_Katchhi_CV.pdf).
+Best reached by [email](mailto:skkatchhi61@gmail.com) or [LinkedIn](https://www.linkedin.com/in/shazil-katchhi). CV: [Shazil_Katchhi_CV.pdf](https://shazil-katchhi.vercel.app/Shazil_Katchhi_CV.pdf).
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:2563eb,100:0f172a&section=footer" width="100%" alt=""/>
