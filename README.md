@@ -20,7 +20,7 @@ M.Sc. Artificial Intelligence student at BTU Cottbus-Senftenberg · based in Ber
 - B.Eng. Computer Science & Engineering (AI & ML), University of Mumbai; now M.Sc. AI at BTU Cottbus-Senftenberg.
 - Co-author of an [IEEE Xplore paper](https://ieeexplore.ieee.org/document/10988379) (ESCI 2025) on sign-language-to-speech (91% gesture accuracy in the pipeline).
 - Recently: AI Engineering Intern at Echocene, Berlin (May-Aug 2026), working across a Python backend, SQL data layer, APIs and a TypeScript frontend.
-- Languages spoken: English, German, Hindi, Urdu.
+- Languages spoken: English, German, Hindi.
 
 ## Featured projects
 
