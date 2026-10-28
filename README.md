@@ -27,7 +27,7 @@ M.Sc. Artificial Intelligence student at BTU Cottbus-Senftenberg · based in Ber
 | Project | What it is | Stack |
 |---|---|---|
 | [**Ghenghis-Khan**](https://github.com/mrchikoo/Ghenghis-Khan) | Fully local PDF and document toolkit for macOS: convert, merge, remove pages, splice, compress. Nothing leaves your machine. | Python, PyQt6, pypdf, Ghostscript, LibreOffice |
-| [**iPhoneOS-1-Emulation-iPhone-2G-**](https://github.com/mrchikoo/iPhoneOS-1-Emulation-iPhone-2G-) | Research project adding Wi-Fi to a 2007 iPhone OS 1 WebAssembly emulator: SDIO and Wi-Fi card model patches, network relay, browser proxy. Builds on Kelindi's [2007.mobile](https://2007.mobile/). | Python, WebAssembly (WAT), JavaScript |
+| [**iPhoneOS-1-Emulation-iPhone-2G**](https://github.com/mrchikoo/iPhoneOS-1-Emulation-iPhone-2G) | Research project adding Wi-Fi to a 2007 iPhone OS 1 WebAssembly emulator: SDIO and Wi-Fi card model patches, network relay, browser proxy. Builds on Kelindi's [2007.mobile](https://2007.mobile/). | Python, WebAssembly (WAT), JavaScript |
 | [**Sign-Language-to-speech-TPP-FPP-**](https://github.com/mrchikoo/Sign-Language-to-speech-TPP-FPP-) | Real-time Indian Sign Language recognition with spoken output; basis of the IEEE paper. | TensorFlow, MediaPipe, Transformer / CNN / LSTM |
 | [**Gen_Ai**](https://github.com/mrchikoo/Gen_Ai) | Fashion GAN image generation experiments. | Python, GANs |
 | [**Object_detection**](https://github.com/mrchikoo/Object_detection) | Live hand-gesture detection from a webcam with a fine-tuned SSD MobileNet. | TensorFlow Object Detection API, OpenCV, Flask |
