@@ -4,7 +4,7 @@
 
 **I build ML systems that see, and the data pipelines underneath.**
 
-M.Sc. Artificial Intelligence student at BTU Cottbus-Senftenberg · based in Berlin · open to working-student roles (15-20 h/week)
+M.Sc. Artificial Intelligence student at BTU Cottbus-Senftenberg · based in Berlin · open to working-student roles & internships.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-shazil--katchhi.vercel.app-2563eb?style=flat-square)](https://shazil-katchhi.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shazil%20Katchhi-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shazil-katchhi)
